@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Reinforcement Learning for Agentic AI Systems - README</title>
+
 </head>
 <body>
 
